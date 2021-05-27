@@ -1,0 +1,12 @@
+1.tell me about your project,your role, challenges faced
+
+2. what operations done on project
+
+3. what are clusted and non clusted keys in snowflake(what is clustering)
+
+4. snowflake is row based or columner based storage(what is mean by columar based storage )
+
+5. can i do indexing in snowflake?
+
+6. in emp table which department employee is earning maximm salery , i want deparment name
+
