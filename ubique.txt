@@ -8,5 +8,5 @@
 
 5. can i do indexing in snowflake?
 
-6. in emp table which department employee is earning maximm salery , i want deparment name
+6. in emp table which department employee is earning maximm salery *******/////wowwwwww
 
